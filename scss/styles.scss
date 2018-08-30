@@ -1,0 +1,230 @@
+@import './colors';
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: $mainColor;
+  font-family: 'Cardo', serif;
+}
+
+.wrapper {
+  max-width: 1000px;
+  width: 100%;
+  margin: 0 auto;
+
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 20px;
+    padding-top: 10px;
+
+    nav {
+
+      ul {
+        margin-top: 50px;
+        display: flex;
+
+        li {
+          list-style-type: none;
+          margin-right: 20px;
+          text-transform: uppercase;
+        }
+
+        a {
+          color: $redColor;
+          text-decoration: none;
+
+          &:hover {
+            cursor: pointer;
+            color: grey;
+          }
+        }
+      }
+    }
+
+    .logo {
+      display: flex;
+
+      .flower {
+        width: 80px;
+        height: 80px;
+        margin-top: 30px;
+        filter: drop-shadow(3px 3px 3px #222);
+      }
+
+      .logoSendalva {
+        display: flex;
+        align-items: center;
+        margin: 10px;
+        width: 250px;
+        height: 70px;
+      }
+    }
+  }
+}
+
+.icon {
+  display: none;
+}
+
+.wrapper.two {
+  display: flex;
+  flex-direction: column;
+
+  main {
+    padding: 10px;
+  }
+
+  aside {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+
+    padding-bottom: 100px;
+
+    img {
+      filter: drop-shadow(4px 4px 4px #222);
+      margin-left: 20px;
+      width: 120px;
+      height: 120px;
+      display: none;
+    }
+
+    .stone {
+      display: flex;
+    }
+
+    .steinadler {
+      display: flex;
+      height: 200px;
+      width: 200px;
+    }
+  }
+}
+
+.mainPic {
+  width: 100vw;
+}
+
+.mainPic_small {
+  display: none;
+}
+
+h3, .adresse {
+  color: $redColor;
+
+  a {
+    text-decoration: none;
+    color: $redColor;
+
+    &:hover {
+      color: black;
+    }
+  }
+}
+
+.bold {
+  font-weight: bold;
+}
+
+i {
+  font-size: 14px;
+}
+
+// **********
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 812px) {
+
+  .wrapper {
+    header {
+      display: flex;
+      flex-direction: column;
+
+      nav {
+        display: none;
+      }
+    }
+  }
+
+  .icon {
+    display: flex;
+    color: white;
+    flex-direction: column;
+
+    .fa-bars {
+      width: 100vw;
+      font-size: 20px;
+      background-color: $redColor;
+      display: inline-flex;
+      justify-content: center;
+      padding: 6px;
+    }
+
+    ul.nav_query {
+      flex-direction: column;
+      background-color: lighten($mainColor, 0.7);
+      width: 100vw;
+      margin: 0;
+      padding-left: 0;
+      display: none;
+
+      li {
+        display: flex;
+        border-bottom: dotted black 1px;
+        list-style-type: none;
+        text-transform: uppercase;
+        padding: 6px;
+        justify-content: center;
+      }
+
+      a {
+        color: $redColor;
+        text-decoration: none;
+
+        &:hover {
+          cursor: pointer;
+          color: grey;
+        }
+      }
+    }
+  }
+
+  .wrapper.two {
+    padding: 20px;
+
+    aside {
+      padding-bottom: 10px;
+      display: flex;
+      justify-content: flex-end;
+
+      img.stone {
+        margin-right: 0;
+        display: block;
+        width: 30%;
+        height: 30%;
+      }
+
+      .steinadler {
+        height: 200px;
+        width: 200px;
+      }
+    }
+  }
+
+  .mainPic {
+    display: none;
+  }
+
+  .mainPic_small {
+    display: block;
+    width: 100vw;
+  }
+}
+
