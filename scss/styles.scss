@@ -151,6 +151,11 @@ footer {
   p {
     color: $mainColor;
   }
+
+  .kontakt a {
+    color: $mainColor;
+    text-decoration: none;
+  }
 }
 
 // **********
@@ -230,6 +235,15 @@ footer {
         height: 200px;
         width: 200px;
       }
+    }
+  }
+
+
+  .wrapper.two.contact main p {
+
+    a {
+      color: black;
+      text-decoration: none;
     }
   }
 
