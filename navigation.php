@@ -6,5 +6,6 @@
         <li><a href="sedonasteine.php">Sedona-Steine</a></li>
         <li><a href="schule.php">Schule</a></li>
         <li><a href="person.php">Person</a></li>
+        <li><a href="kontakt.php">Kontakt</a></li>
     </ul>
 </div>
