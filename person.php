@@ -33,6 +33,9 @@
         <img src="img/steinadler.png" class="steinadler" alt="steinadler">
     </aside>
 </div>
+
+<?php include 'footer.php'; ?>
+
 <script src="js/js_sendalva.js"></script>
 </body>
 </html>

@@ -55,6 +55,9 @@
         <img src="img/stone.png" class="stone" alt="stone">
     </aside>
 </div>
+
+<?php include 'footer.php'; ?>
+
 <script src="js/js_sendalva.js"></script>
 </body>
 </html>
