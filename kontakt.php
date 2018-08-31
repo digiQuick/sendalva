@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang>
+<?php include 'head.php'; ?>
+<body>
+<div class="wrapper">
+    <?php include 'header.php'; ?>
+</div>
+
+<?php include 'navigation.php'; ?>
+<img src="img/thirdOne_small.jpg" class="mainPic_small" alt="seelenPfad_small">
+
+<div class="wrapper two">
+    <main>
+        <h3>Kontakt</h3>
+        <p>Gabriela Capeder Heckner<br>
+           Pardellen 6<br>
+           7304 Maienfeld<br>
+           M +41 79 446 96 17<br>
+           info@sendalva.ch
+        </p>
+    </main>
+    <aside>
+        <img src="img/blueten.png" class="stone" alt="stone">
+    </aside>
+</div>
+<script src="js/js_sendalva.js"></script>
+</body>
+</html>
