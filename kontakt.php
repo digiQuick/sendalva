@@ -12,26 +12,21 @@
 
 <div class="wrapper two">
     <main>
+        <h3>Person</h3>
         <p>
-            <span class="adresse">Gabriela Capeder Heckner<br>
-            Obere Pardellen 6<br>
-            7304 Maienfeld<br>
-            M +41 79 446 96 17<br>
-                <a href="mailto:info@sendalva.ch">info@sendalva.ch</a><br>
-                <a href="http://www.sendalva.ch" target="_blank">www.sendalva.ch</a></span><br>
-            <br>
-            Mein bisheriger Lebensweg hat mir verschiedene Ausbildungen beschert. So bin ich Juristin, lic. jur. , Dipl.
-            Life- und Persönlichkeitscoach ECA/ICI, Mediatorin FH, Primarlehrerin und habe schamanische Weiterbildungen
-            besucht. Ich bin verheiratet und Mutter einer Tochter.<br><br>
-            Meine beruflichen Tätigkeiten folgten wohl einem roten Faden, der mich nun zu meiner privaten Praxis
-            «Sendalva» geführt hat. Davor war ich langjährig als Juristin in der Bildungsdirektion des Kantons Zürich
-            und als Dozentin für Recht an der Pädagogischen Hochschule Zürich tätig (hauptsächlich in der
-            Schulleiterausbildung). Ich sammelte zudem wertvolle Erfahrungen in der Nebentätigkeit als Juristin an
-            der Fachstelle für Gleichstellungsfragen des Kantons Zürich und anlässlich unzähliger Stellvertretungen an
-            verschiedenen Primar- und Mittelschulen in Graubünden und Bern.<br><br>
-            Wir können uns gerne in meiner Praxis, in Ihren Räumlichkeiten oder in der freien Natur treffen.
-            Sehr gerne führe ich Sitzungen auch in romanischer Sprache durch.
-            Erste Kontaktnahmen sind selbstverständlich kostenfrei und unverbindlich.
+            Mein bisheriger Lebensweg hat mir verschiedene <span class="adresse">Aus- und Weiterbildungen</span>
+            beschert. Ich bin Juristin, lic. jur. , Dipl. Life- und Persönlichkeitscoach ECA/ICI, Mediatorin FH,
+            Primarlehrerin. Ich habe das 300Std. core curriculum in Shamanic Energy Medicine der Four Winds Society
+            bei Alberto Villoldo besucht. Ich bin verheiratet und Mutter einer Tochter. Meine <span class="adresse">beruflichen Erfahrungen</span>
+            führe ich in meiner privaten Praxis «Sendalva» zusammen. Hier bin ich nun hauptsächlich im Coaching und
+            in der Energiemedizin tätig. Davor war ich langjährig als Juristin in der Bildungsdirektion des Kantons
+            Zürich und als Dozentin für Recht an der Pädagogischen Hochschule Zürich tätig (hauptsächlich in der
+            Schulleiterausbildung). Weiter war ich als Juristin an der Fachstelle für Gleichstellungsfragen des Kantons
+            Zürich und als Stellvertretung an Primar- und Mittelschulen tätig.
+            <br><br>
+            Wir können uns gerne in meiner Praxis, in Ihren Räumlichkeiten oder in der freien Natur treffen. Sehr gerne
+            führe ich Sitzungen auch in romanischer Sprache durch. Erste Kontaktnahmen sind selbstverständlich
+            kostenfrei und unverbindlich.
         </p>
     </main>
     <aside>

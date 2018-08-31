@@ -6,17 +6,16 @@
     <?php include 'header.php'; ?>
 </div>
 
-<img src="img/secondOne.png" class="mainPic" alt="mainPic">
+<img src="img/secondOne.jpg" class="mainPic" alt="mainPic">
 <?php include 'navigation.php'; ?>
 <img src="img/secondOne_small.png" class="mainPic_small" alt="mainPic">
 
 <div class="wrapper two">
     <main>
         <h3>Coaching</h3>
-        <p>In meiner Praxis für systemisches integrales Coaching, Mediation und Beratung gehen wir den Pfaden des
-            Lebens nach, überwinden Hindernisse und erkunden neue Wege. Dabei berücksichtigen wir verschiedene Ebenen
-            unserer Existenz - insbesondere den Körper, den Verstand, die Gefühle und die Seele. Wir können die Natur in
-            die Richtungssuche miteinbeziehen.</p>
+        <p>In meiner Praxis für systemisches integrales Coaching, Mediation und Beratung gehen wir den Pfaden des Lebens nach,
+            überwinden Hindernisse und erkunden neue Wege. Dabei berücksichtigen wir verschiedene Ebenen unserer Existenz -
+            insbesondere den Körper, den Verstand, die Gefühle und die Seele. </p>
 
         <h3>Systemisches integrales Coaching</h3>
         <p>Systemisches integrales Coaching berücksichtigt den Verstand, den Körper, die Gefühle und die Seele des

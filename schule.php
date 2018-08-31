@@ -16,7 +16,7 @@
         <span class="adresse zitat">«Verantwortung ist keine Last auf meinen Schultern, <br>sondern die Antwort des Herzens auf den Zustand der Welt.»<br><br>
         <i>Dolores La Chapelle</i></span>
         <p>
-            Diese Herzensantwort geben wir unseren Kindern und Jugendlichen jeden Tag von neuem. Es ist kein Leichtes,
+            Diese <span class="adresse">Herzensantwort</span> geben wir unseren Kindern und Jugendlichen jeden Tag von neuem. Es ist kein Leichtes,
             gerade als Eltern, Schulleiter, Lehrer oder Behörden,
             dieser Verantwortung immer voll zu genügen. Die Individualität der jungen Menschen, die verschiedenen
             Bedürfnisse aller Beteiligten, beschränkte Mittel und weitere Umstände fordern unsere Beachtung.
@@ -49,3 +49,5 @@
 <script src="js/js_sendalva.js"></script>
 </body>
 </html>
+
+

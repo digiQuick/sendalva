@@ -138,6 +138,22 @@ i {
   font-size: 14px;
 }
 
+footer {
+  background-color: $redColor;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 35px;
+  position: fixed;
+  bottom: 0;
+
+  p {
+    color: $mainColor;
+  }
+}
+
+
 // **********
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 812px) {
