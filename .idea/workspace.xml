@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2212281b-1da4-46fa-83ee-837ce0b2766c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kontakt.php" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/styles.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +28,7 @@
         <counts>
           <entry key="html" value="296" />
           <entry key="js" value="166" />
-          <entry key="php" value="356" />
+          <entry key="php" value="370" />
           <entry key="scss" value="1638" />
         </counts>
       </usages-collector>
@@ -39,7 +36,7 @@
         <counts>
           <entry key="HTML" value="296" />
           <entry key="JavaScript" value="166" />
-          <entry key="PHP" value="356" />
+          <entry key="PHP" value="370" />
           <entry key="SCSS" value="1638" />
         </counts>
       </usages-collector>
@@ -129,8 +126,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kontakt.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="420">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -237,6 +234,11 @@
             <path>
               <item name="_sendalva" type="b2602c69:ProjectViewProjectNode" />
               <item name="_sendalva" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_sendalva" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_sendalva" type="462c0819:PsiDirectoryNode" />
               <item name="scss" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -336,12 +338,12 @@
       <workItem from="1533221265526" duration="153000" />
       <workItem from="1533543672787" duration="12183000" />
       <workItem from="1533623281468" duration="4795000" />
-      <workItem from="1535698523204" duration="8439000" />
+      <workItem from="1535698523204" duration="8706000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94803000" />
+    <option name="totallyTimeSpent" value="95070000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -497,8 +499,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kontakt.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="420">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>

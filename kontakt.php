@@ -7,7 +7,7 @@
 </div>
 
 <?php include 'navigation.php'; ?>
-<img src="img/thirdOne_small.jpg" class="mainPic_small" alt="seelenPfad_small">
+<img src="img/kontakt_small.jpg" class="mainPic_small" alt="kontakt">
 
 <div class="wrapper two">
     <main>
