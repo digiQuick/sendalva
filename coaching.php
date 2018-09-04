@@ -22,8 +22,8 @@
             Coachees, sowie dessen Umfeld. Das Ziel ist, alle Ebenen zu integrieren, so dass der Coachee sich als
             Einheit wahrnehmen kann und in dieser Kraft sein volles Potential ausschöpfen kann. Ein hilfreicher
             Bestandteil des Coachings kann der Austausch mit der Natur sein. In der Natur eröffnen sich neue
-            Perspektiven auf die Fragestellungen. Die Natur bietet zudem viele Ressourcen, um Heilung erfahren zu
-            können.Mein Verständnis von Coaching ist eine wertungsfreie Begleitung des Coachees in seinem
+            Perspektiven. Die Natur bietet zudem viele Ressourcen, um Heilung erfahren zu
+            können. Mein Verständnis von Coaching ist eine wertungsfreie Begleitung des Coachees in seinem
             Prozess. In keinem Augenblick weiss ich besser als der Coachee, was das Richtige für ihn ist – denn «auch
             Ratschläge sind Schläge.» Die Kunst des Coachens besteht darin, dem Coachee zu ermöglichen, den Blickwinkel
             zu erweitern, neue Perspektiven zu erkunden, tiefere Verständnisse über sich und seine Ressourcen zu
@@ -32,7 +32,7 @@
 
         <h3>Mediation</h3>
         <p>In der Mediation arbeite ich im Sinne von «Collaborative Law». Diese Mediationsarbeit kann mit einer oder
-            mehreren Konfliktparteien erfolgen. Ein Coach begleitet die betroffenen in den emotionalen Zeiten eines
+            mehreren Konfliktparteien erfolgen. Ein Coach begleitet die Betroffenen in den emotionalen Zeiten eines
             Konfliktes oder einer Trennung. Die Aufgabe des Coaches ist es, mit den Parteien ihre Bedürfnisse zu klären,
             Blockaden zu lösen und neue mögliche Wege zu erkunden. Es geht darum, die Aufmerksamkeit der Parteien auf
             ihre Heilung und den weiteren Weg zu richten, so dass die wahren Bedürfnisse frei von hindernden Anhaftungen
@@ -43,8 +43,8 @@
         <h3>Beratung</h3>
         <p>Das Wort Beratung verstehe ich im Sinne von Rat halten, reflektieren, gemeinsam Informationen interpretieren.
             Es geht darum, Möglichkeiten aufzuzeigen und zu erkunden, Wissen auszutauschen und sich sprichwörtlich zu
-            beraten. Durch meine langjährige berufliche Tätigkeit als Juristin und Mediatorin im Schu- und Personalwesen
-            und Dozentin an der PHZH kann ich im Schul- und Personalwesen auf eine grosse Erfahrung zurückgreifen. Dabei
+            beraten. Durch meine langjährige berufliche Tätigkeit als Juristin und Mediatorin im Schul- und Personalwesen
+            und Dozentin an der PHZH kann ich auf eine grosse Erfahrung zurückgreifen. Dabei
             spielt es für mich keine Rolle, ob Schulgemeinden, Schulleiter, Lehrpersonen oder Eltern mit ihren Kindern
             eine Beratung anfragen. Gerade im Schulwesen ist es hilfreich, wenn man gemeinsam eine gute Art der
             Zusammenarbeit finden kann. Durch meine langjährige berufliche und familiäre Auseinandersetzung mit dem

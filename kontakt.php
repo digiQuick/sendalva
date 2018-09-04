@@ -16,7 +16,7 @@
            Pardellen 6<br>
            7304 Maienfeld<br>
            M +41 79 446 96 17<br>
-           <a href="mailto:info@sendalva">info@sendalva.ch</a>
+           <a href="mailto:info@sendalva.ch">info@sendalva.ch</a>
         </p>
     </main>
     <aside>

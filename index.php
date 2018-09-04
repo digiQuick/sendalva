@@ -19,9 +19,9 @@
             Rat halten, die Zeichen der Zeit erkennen und sich in Ruhe die Zeit nehmen, für den Austausch über die
             Zusammenhänge des Lebens. Ich sehe es als meine Aufgabe, diesen Raum zu schaffen, in dem meine Klienten
             in Ruhe auf ihre Zeichen der Zeit achten und sich beraten können. Denn eine Stunde lang mit «aller Zeit
-            der Welt» einen Blick auf die Dinge zu werfen, kann viele Stunden ersparen, in denen wir immer wieder
+            der Welt» einen Blick auf ein Thema zu werfen, kann viele Stunden ersparen, in denen wir immer wieder
             dieselben Gedanken wälzen und denselben Herausforderungen gegenüberstehen. In dieser Stunde können wir
-            beginnen, eine <span class="adresse">neue Geschichte unseres Lebens</span>zu schreiben.<br><br>
+            beginnen, eine <span class="adresse">neue Geschichte unseres Lebens</span> zu schreiben.<br><br>
 
             Jeder Mensch weiss selbst, welche Fragen im Moment privat oder beruflich für ihn wichtig sind. Nur er trägt
             das Wissen in sich, in welchem Tempo und auf welchem Weg er sich den Fragen nähern will. Ich begleite meine

@@ -20,9 +20,9 @@
             Auf unserem Seelenpfad voranzukommen bedeutet, uns selbst und unsere Bestimmung näher kennenzulernen. So
             können wir lichtvoll und gelassen unterwegs sein und unser volles Potenzial in die Welt bringen. In der <span class="adresse">Natur</span>
             finden wir dazu hilfreiche und lichtvolle Kräfte. Ein möglicher Zugang zu den Kräften der Natur eröffnet sich,
-            wenn wir das Medizinrad der Erdenhüter der Anden durchlaufen und uns mit den archetypischen Energien um uns
+            wenn wir das <span class="adresse">Medizinrad</span> der Erdenhüter der Anden durchlaufen und uns mit den archetypischen Energien um uns
             herum verbinden. <span class="adresse">Mutter Erde, die Himmelsrichtungen, die Tiere, die Pflanze, Sonne, Mond und Sterne, die Elemente</span> –
-            sie alle sind für uns da. Wir können auf unserem Seelenpfad auch Rituale feiern, um einen Erfolg oder Neubeginn
+            sie alle sind für uns da. Wir können auf unserem Seelenpfad auch <span class="adresse">Rituale</span> feiern, um einen Erfolg oder Neubeginn
             zu feiern, Abschied zu nehmen oder beispielsweise eine Veränderung zu unterstützen.
             <br>
             <br>
